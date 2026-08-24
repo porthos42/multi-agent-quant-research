@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.parquet
+raw_cache/
+private/
+workspace/
+.pytest_cache/
